@@ -1,0 +1,10 @@
+etc/firmware/catcher_filter_1_ulwctg_n.bin
+etc/firmware/catcher_filter_3_3g_n.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n_C2KOnly_Test.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n_Default_Embms.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n_Default_IPAllOff.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n_FullLog.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n_SlimLog_DspAllOff.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n__Default.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n_meta.bin
+etc/firmware/em_filter_1_ulwctg_n.bin
